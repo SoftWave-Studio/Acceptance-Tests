@@ -10,4 +10,4 @@ Feature: Iniciar sesión
 
         Example:
             | usuario | input | output |
-            | LuisA   | pulsar botón iniciar sesión | acceso a la aplicación |
+            | LuisAl   | pulsar botón iniciar sesión | acceso a la aplicación |
